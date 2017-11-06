@@ -1,2 +1,3 @@
 # bitbit
-extension to the the shoppingbits.com
+This is about gathering offers and discounts information from around various merchant websites.
+
